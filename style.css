@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+video {
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+#prediction {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.samples {
+  margin-top: 10px;
+}
